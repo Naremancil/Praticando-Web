@@ -76,7 +76,7 @@ main{
 
 #button-container button{
   border: 1px solid transparent;
-  padding: 2em;
+  padding: 1.4em;
   font-size: 1em;
   font-weight: bolder;
   cursor: pointer;
