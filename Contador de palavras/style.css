@@ -101,7 +101,8 @@ main{
     padding: 2em;
 }
 
-input{
+#text-field{
     width: 80%;
+    padding: 1em;
     margin-bottom: 4em;
 }
